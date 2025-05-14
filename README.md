@@ -319,12 +319,12 @@
 </details>
 
 ## 🚀 핵심 로직 상세 설명
-### [📃 프로젝트 Wiki](https://github.com/ddarahakit2025/be12-fin-template/wiki) <br>
+### [📃 프로젝트 Wiki](https://github.com/ddarahakit2025/be12-fin-template/wiki/프론트엔드-프로젝트) <br><br>
 
 
 ## 📂 프로젝트 폴더 바로가기
-### [📃 Backend](https://github.com/ddarahakit2025/be12-fin-template/backend) <br>
-### [📃 Devops](https://github.com/ddarahakit2025/be12-fin-template/devops)
+### [📃 Backend](https://github.com/ddarahakit2025/be12-fin-template/tree/main/backend) <br>
+### [📃 Devops](https://github.com/ddarahakit2025/be12-fin-template/tree/main/devops)
 <br>
 
 
