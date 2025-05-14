@@ -33,12 +33,14 @@
 
 ### 목차
 - [🛠 기술 스택](#-기술-스택)
-- [📚 OOO 데모 사이트 링크](#-enadu-사이트-바로가기)
-- [🎁 OOO 서비스 소개](#-enadu-서비스-소개)
-- [📈 OOO 프로젝트 설계](#-프로젝트-설계)
+- [📚 OOO 데모 사이트 링크](#-OOO-데모-사이트-바로가기)
+- [🎨 OOO 서비스 소개](#-OOO-서비스-소개)
+- [🏗️ 시스템 아키텍처](#-시스템-아키텍처)
+- [📚 프론트엔드 프로젝트 목표](#-프론트엔드-프로젝트-목표)
+- [📈 프로젝트 설계](#-프로젝트-설계)
+- [🚀 핵심 로직 상세 설명](#-핵심-로직-상세-설명)
 - [📂 프로젝트 폴더 바로가기](#-프로젝트-폴더-바로가기)
 <br><br>
-
 
 ## 🛠 기술 스택
 
@@ -119,14 +121,14 @@
 <br>
 
 ## 🏗️ 시스템 아키텍처
-<img src="https://github.com/user-attachments/assets/20d4bd81-5a44-453e-9315-6fdfa33e2f4d">
+<img src="https://github.com/user-attachments/assets/20d4bd81-5a44-453e-9315-6fdfa33e2f4d"><br><br>
 
 
 ## 📚 프론트엔드 프로젝트 목표
-- `사용자 인터페이스(UI) 개발` : 직관적이고 반응형(Responsive) 디자인 구현<br>
-- `사용자 경험(UX) 향상` : 사용자의 편의성과 흐름을 고려한 화면 흐름 설계<br>
-- `프론트엔드 기술 활용` : HTML, CSS, JavaScript, 프레임워크(Vue, React 등) 사용
-- `API 연동` : 백엔드와의 데이터 통신 (REST API, GraphQL 등)
+- `사용자 인터페이스(UI) 개발` : 직관적이고 반응형(Responsive) 디자인 구현
+- `사용자 경험(UX) 향상` : 사용자의 편의성과 흐름을 고려한 화면 흐름 설계
+- `프론트엔드 기술 활용` : HTML, CSS, JavaScript, 프레임워크(Vue, React 등)를 사용할 때 확장성을 고려하여 프로젝트를 진행
+- `API 연동` : 백엔드와의 데이터 통신(fetch, promise, ajax, axios, interceptor 등)
 <br>
 
 ## 📈 프로젝트 설계
@@ -138,6 +140,8 @@
 ### [3. WBS](https://구글docs_링크/WBS)
 
 ### [4. 화면설계서 바로가기](https://피그마_링크/화면설계서)
+
+<br><br>
 
 ## ⚙️ 주요 기능 시연
 <details>
@@ -319,8 +323,8 @@
 
 
 ## 📂 프로젝트 폴더 바로가기
-### [📃 Backend](https://백엔드_레포지토리_주소/) <br>
-### [📃 Devops](https://백엔드_레포지토리_주소/devops)
+### [📃 Backend](https://github.com/ddarahakit2025/be12-fin-template/backend) <br>
+### [📃 Devops](https://github.com/ddarahakit2025/be12-fin-template/devops)
 <br>
 
 
